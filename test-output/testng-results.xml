@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-12T00:32:26 IST" name="Suite" finished-at="2022-06-12T00:33:04 IST" duration-ms="37832">
+    <groups>
+    </groups>
+    <test started-at="2022-06-12T00:32:26 IST" name="Test" finished-at="2022-06-12T00:33:04 IST" duration-ms="37832">
+      <class name="testpackage.TestActitimeToGetSettingsDropdown">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.TestActitimeToGetSettingsDropdown@49c7b90e]" started-at="2022-06-12T00:32:52 IST" name="setUp" finished-at="2022-06-12T00:32:53 IST" duration-ms="1126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getAllTheDropdownsOfSettings()[pri:0, instance:testpackage.TestActitimeToGetSettingsDropdown@49c7b90e]" started-at="2022-06-12T00:32:53 IST" name="getAllTheDropdownsOfSettings" finished-at="2022-06-12T00:32:57 IST" duration-ms="4004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllTheDropdownsOfSettings -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testpackage.TestActitimeToGetSettingsDropdown@49c7b90e]" started-at="2022-06-12T00:32:57 IST" name="tearDown" finished-at="2022-06-12T00:32:57 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpackage.TestActitimeToGetSettingsDropdown -->
+      <class name="testpackage.TestActiTimeInvalidLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.TestActiTimeInvalidLogin@a3d8174]" started-at="2022-06-12T00:32:26 IST" name="setUp" finished-at="2022-06-12T00:32:30 IST" duration-ms="3819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="actitimeInvalidLogin()[pri:0, instance:testpackage.TestActiTimeInvalidLogin@a3d8174]" started-at="2022-06-12T00:32:30 IST" name="actitimeInvalidLogin" finished-at="2022-06-12T00:32:52 IST" duration-ms="21899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actitimeInvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testpackage.TestActiTimeInvalidLogin@a3d8174]" started-at="2022-06-12T00:32:52 IST" name="tearDown" finished-at="2022-06-12T00:32:52 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpackage.TestActiTimeInvalidLogin -->
+      <class name="testpackage.TestActiTimeValidLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.TestActiTimeValidLogin@10d307f1]" started-at="2022-06-12T00:32:57 IST" name="setUp" finished-at="2022-06-12T00:32:58 IST" duration-ms="1188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="actitimeValidLogin()[pri:0, instance:testpackage.TestActiTimeValidLogin@10d307f1]" started-at="2022-06-12T00:32:58 IST" name="actitimeValidLogin" finished-at="2022-06-12T00:32:59 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actitimeValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testpackage.TestActiTimeValidLogin@10d307f1]" started-at="2022-06-12T00:32:59 IST" name="tearDown" finished-at="2022-06-12T00:32:59 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpackage.TestActiTimeValidLogin -->
+      <class name="testpackage.TestActiTimeLogout">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.TestActiTimeLogout@4d5b6aac]" started-at="2022-06-12T00:32:59 IST" name="setUp" finished-at="2022-06-12T00:33:00 IST" duration-ms="1242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="actitimeLogout()[pri:0, instance:testpackage.TestActiTimeLogout@4d5b6aac]" started-at="2022-06-12T00:33:00 IST" name="actitimeLogout" finished-at="2022-06-12T00:33:03 IST" duration-ms="3440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actitimeLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testpackage.TestActiTimeLogout@4d5b6aac]" started-at="2022-06-12T00:33:03 IST" name="tearDown" finished-at="2022-06-12T00:33:04 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpackage.TestActiTimeLogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
