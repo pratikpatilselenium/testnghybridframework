@@ -27,6 +27,7 @@ public class New {
 		Actions act = new Actions(driver);
 		act.moveToElement(webElement).perform();
 		Thread.sleep(2000);
+		//prachi patil
 		driver.findElement(By.xpath("//span[.='Mangalsutra']")).click();
 		String price = driver.findElement(By.xpath("(//span[@id='bst-discounted-price' and @class='new-price'])[1]")).getText();
 	    Reporter.log(""+price,true);
