@@ -11,5 +11,5 @@ public interface IAutoConstant {
 	String PROP_PATH="./data/config.properties";
 	String EXCEL_PATH="./data/TestData.xlsx";
 
-	String SCREENSHOT_PATH="./screenshots";
+	String SCREENSHOT_PATH="./screenshots/";
 }
